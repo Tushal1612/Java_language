@@ -12,8 +12,9 @@ public class oddeven_01 {
             System.out.print("Even Number");
         }
         else {
-            System.out.print("odd Number");
+            System.out.print("Odd Number");
         }
 
     }
 }
+
